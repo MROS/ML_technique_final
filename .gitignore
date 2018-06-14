@@ -1,0 +1,6 @@
+# editor
+*.swo
+*.swp
+
+# data
+data/
